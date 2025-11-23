@@ -22,6 +22,9 @@ const Flower = () => {
             I Cant Give you flowers for now lovelove but accept this my virtual flower for you and Happy MONTHSARRY BABY 
             
           </p>
+          <p className='message-pop'>
+            Naa na sab ta new baby can't wait lovelove
+          </p>
 
             {/* Floating petals */}
             <div className="petal">🌸</div>
