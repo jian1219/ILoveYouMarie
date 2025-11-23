@@ -7,7 +7,7 @@ const Intro = () => {
     const navigate = useNavigate();
 
     const goToAbout = () => {
-    navigate("/about"); // 👈 navigates to /about page
+    navigate("/home"); // 👈 navigates to /about page
   };
     return (
         <div className='page1'>
